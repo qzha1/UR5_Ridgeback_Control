@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/atom/catkin_ws/driver/devel -DCMAKE_INSTALL_PREFIX=/home/atom/catkin_ws/driver/install -G Unix Makefiles
